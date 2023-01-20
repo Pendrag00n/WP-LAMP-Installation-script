@@ -1,0 +1,1 @@
+# WP-LAMP-Installation-script
